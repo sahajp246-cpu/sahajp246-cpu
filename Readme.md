@@ -80,7 +80,7 @@ Exploratory data analysis and sentiment modeling project.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahajp246-cpu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Sahaj's GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=sahajp246-cpu&theme=tokyonight&hide_border=true" alt="Sahaj's GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sahajp246-cpu&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Sahaj's GitHub Streak" width="49%"/>
 
 <br/><br/>
 
